@@ -1,0 +1,11 @@
+// opening bracket
+{
+  // markdown linter settings
+
+  "markdownlint.config": {
+    "markdownlint.onOpen": true,
+    "markdownlint.onSave": true
+  }
+
+  // closing bracket
+}

@@ -1,0 +1,2 @@
+Insert custom colorthemes here.
+e.g. my own meitnerium theme.
